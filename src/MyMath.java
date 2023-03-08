@@ -11,6 +11,7 @@ public class MyMath {
 
     public static void gcf () {
 
+
         // Declares and initializes variables
         int fn = 0;
         int sn = 0;
